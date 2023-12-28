@@ -61,6 +61,11 @@ $ git clone https://github.com/LucasJunio/microservice-rabbitmq-express-nest.git
 # Acces the project folder in your terminal/cmd
 $ cd microservice-rabbitmq-express-nest
 
+# Create queue and bind between exchanges on rabbitMQ http://localhost:15672
+$ create queue nest and bind with exchange rota
+$ create queue express and bind with exchange rota2
+
+
 ```
 
 ## 2.1. Containers
