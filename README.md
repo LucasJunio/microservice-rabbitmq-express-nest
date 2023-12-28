@@ -32,7 +32,7 @@ Prisma Local Database
 
 # 1. Overview
 
-Example of RabbitMQ integration with Node.js applications using Docker.
+Example of RabbitMQ integration with Node.js applications nest and express using Docker.
 
 Result:
 
