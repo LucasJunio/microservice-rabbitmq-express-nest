@@ -28,7 +28,6 @@ Beyond is good to has an editor for to work with the code like [VSCode](https://
 - [3. How to create a new branch](#3-new-branch)
   - [3.1 Commits](#31-commits)
 
-Prisma Local Database
 
 # 1. Overview
 
